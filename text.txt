@@ -14,7 +14,6 @@ Dover, CT9 XXX
 UK
 
 
-Re: Eileen Dover university application
 
 Dear Eileen,
 
@@ -35,7 +34,8 @@ You can find more information about important university dates on our website.
 
 Subjects of study
 
-At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:
+
+An interesting At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:
 
 Turning H2O into wine, and the health benefits of Resveratrol (C14H12O3.)
 Measuring the effect on performance of funk bassplayers at temperatures exceeding 30°C (86°F), when the audience size exponentially increases (effect of 3 × 103 increasing to 3 × 104.)
@@ -52,12 +52,11 @@ Polynesian chicken dance
 A little known but very influential dance dating back as far as 300BC, a whole village would dance around in a circle like chickens, to encourage their livestock to be "fruitful".
 Icelandic brownian shuffle
 Before the Icelanders developed fire as a means of getting warm, they used to practice this dance, which involved huddling close together in a circle on the floor, and shuffling their bodies around in imperceptibly tiny, very rapid movements. One of my fellow students used to say that he thought this dance inspired modern styles such as Twerking.
-Arctic robot dance
-An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterized by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.
+Arctic robot danceexample of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterized by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.
 
-For more of my research, see my exotic dance research page.
+ exotic dance research page.
 
 Yours sincerely,
-Dr Eleanor Gaye
+
 
 University of Awesome motto: "Be awesome to each other." -- The memoirs of Bill S Preston, Esq
